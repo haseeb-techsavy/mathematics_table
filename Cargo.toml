@@ -3,6 +3,11 @@ name = "mathematics_table"
 version = "0.1.0"
 authors = ["Haseeb ul Hassan <haseeb.ee12@gmail.com>"]
 edition = "2018"
+repository = "https://github.com/haseebulhassan-IOT/mathematics_table"
+homepage = "https://github.com/haseebulhassan-IOT/mathematics_table"
+license = "MIT/Apache-2.0"
+readme = "README.md"
+description = "A rust library that will generate a math table of an integer given by the user."
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
